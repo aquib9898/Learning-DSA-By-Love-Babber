@@ -4,6 +4,3 @@ int main(){
     cout<<"hell  world"<<endl;
     return 0;
 }
-int main(){
-    cout<<"hell  world"<<endl;
-    return 0;
